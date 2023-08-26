@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anurag Regmi</h1>
-<h3 align="center">Computer Science and Information Technology (CSIT) Student | 🌐 Aspiring Software Engineer</h3>
+<h3 align="center">A Passionate Learner from Nepal</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-regmi&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-regmi" /> </p>
 
-- ⚡ Fun fact **I'm a night owl coder 🦉 - my best code comes to life after midnight.**
+- ⚡ Fun fact **Programmer with Zero Knowledge**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
