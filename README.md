@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-regmi&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-regmi" /> </p>
 
 - ⚡ Fun fact **Programmer with Zero Knowledge**
-
+<img src= "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" height="200" width="200" /><img src= "https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="200" width="200"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="200" width="200"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="200" width="200"><img src="https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp" height="200" width="200"/> <img src= "https://assets.holopin.io/hf2023levels/level1-red-cat-0-0.webp" height="200" width="200"><img src="https://assets.holopin.io/hf2023levels/level2-red-cat-suit-0.webp" height="200" width="200"/><img src= "https://assets.holopin.io/hf2023levels/level3-red-cat-suit-0.webp" height="200" width="200"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="200" width="200"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG5leHg3dmUyMTcxOTN6amp0c2lvNXZqIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="200" width="200">
 <p align="left">
 </p>
 
